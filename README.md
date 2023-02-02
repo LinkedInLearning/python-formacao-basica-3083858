@@ -1,5 +1,5 @@
 # Python: Formação Básica
-Este é o repositório do curso de LinkedIn Learning `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
+Este é o repositório do curso de LinkedIn Learning `[Python: Formação Básica]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
 ![Python: Formação Básica][lil-thumbnail-url] 
 
