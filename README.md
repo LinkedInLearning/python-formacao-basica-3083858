@@ -1,11 +1,12 @@
-# Título final do curso 
+# Python: Formação Básica
 Este é o repositório do curso de LinkedIn Learning `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
-![Título completo do curso][lil-thumbnail-url] 
+![Python: Formação Básica][lil-thumbnail-url] 
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
 DESCRIÇÃO DO CURSO 
+
 
 ## Instruções 
 Este repositório contém ramificações, ou branches, para cada um dos vídeos do curso. Caso você deseje alternar para uma ramificação específica e continuar o curso a partir daí, use o menu pop-up da ramificação no GitHub ou adicione `/tree/nome_da_ramificação` ao URL para acessar diretamente a ramificação desejada. 
@@ -22,7 +23,7 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 ### Instrutor(a)
 
-**Nome do(a) instrutor(a)**
+**Ana Cecília Vieira Silva**
 
 Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
