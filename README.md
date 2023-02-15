@@ -7,19 +7,27 @@ Confira o arquivo Readme na ramificação principal para obter instruções e in
 
 DESCRIÇÃO DO CURSO 
 
+Python é uma das linguagens de programação mais utilizadas do mundo e com isso, oferece diversas oportunidades profissionais. Neste curso, a instrutora e analista de dados, Ana Cecília Vieira te dará as ferramentas necessárias para iniciar no aprendizado de Python. Começando pela sintaxe básica da linguagem, entendendo como tipos e valores estão relacionados a objetos em Python e como usar as estruturas de controle, condicionais, loops e funções, além de conceitos introdutórios de Programação orientada a objetos, e exemplos de como trabalhar com arquivos, módulos, threads e processos. Isso tudo com exercícios e desafios práticos para que você possa praticar e aplicar em seus projetos.		
 
 ## Instruções 
-Este repositório contém ramificações, ou branches, para cada um dos vídeos do curso. Caso você deseje alternar para uma ramificação específica e continuar o curso a partir daí, use o menu pop-up da ramificação no GitHub ou adicione `/tree/nome_da_ramificação` ao URL para acessar diretamente a ramificação desejada. 
+
+Este repositório contém três pastas com o seguinte conteúdo:
+
+- **exercicios:** práticas propostas para fixar e desenvolver os conhecimentos adquiridos em cada capítulo. Essa pasta contém apenas orientações e desafios.
+- **gabaritos:** resolução dos exercícios práticos dispostos na pasta [exercicios](exercicios/).
+- **dados:** dados a serem usados para realização dos exercícios.
+
 
 ## Ramificações 
-As ramificações são estruturadas para corresponder aos vídeos do curso. A convenção de nomenclatura é Capítulo#_Vídeo#. Por exemplo, a ramificação `02_03` corresponde ao terceiro vídeo do segundo capítulo. Algumas ramificações terão um status inicial e final, indicado com um i (início) e um f (fim). Portanto, a ramificação 02_03_i corresponde ao código de início do vídeo e a ramificação 02_03_f corresponde ao código de fim do vídeo. Por outro lado, a ramificação mestre corresponde ao código de conclusão do curso. 
+Todos os exercícios e suas resoluções estão na ramificiação principal do repositório.
 
 ## Instalação
 1. Para usar esses arquivos de exercícios, você precisa baixar o seguinte programa: 
-	- [software]
+	- [Python](https://www.python.org/)
+	- [Visual Studio Code](https://code.visualstudio.com/)
 	
 2. Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso. 
-3. [Instruções específicas do curso].
+3. Utilize o VSCode para abrir a pasta do repositório e realizar os exercícios.
 
 ### Instrutor(a)
 
