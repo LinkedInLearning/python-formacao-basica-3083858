@@ -1,0 +1,15 @@
+DICIONÁRIO DE DADOS
+
+continente: o continente ao qual o país pertence
+pais: nome do país
+ano: ano de fazer estatísticas
+populacao: população
+%_crescimento_populacional: taxa de crescimento populacional (positivo: aumento, negativo: diminuição) a cada ano
+crescimento_populacional: a população muda a cada ano
+migrantes: número de pessoas que migraram
+idade_media: idade mediana
+%_fertilidade: taxa de fertilidade
+%_populacao_urbana: porcentagem da população urbana
+populacao_urbana: população urbana
+%_populacao_mundial: porcentagem da população mundial
+classificacao: classificação da população no ranking mundial
