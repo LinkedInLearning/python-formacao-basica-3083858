@@ -3,11 +3,8 @@ Este é o repositório do curso de LinkedIn Learning `[Python: Formação Básic
 
 ![Python: Formação Básica][lil-thumbnail-url] 
 
-Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
-DESCRIÇÃO DO CURSO 
-
-Python é uma das linguagens de programação mais utilizadas do mundo e com isso, oferece diversas oportunidades profissionais. Neste curso, a instrutora e analista de dados, Ana Cecília Vieira te dará as ferramentas necessárias para iniciar no aprendizado de Python. Começando pela sintaxe básica da linguagem, entendendo como tipos e valores estão relacionados a objetos em Python e como usar as estruturas de controle, condicionais, loops e funções, além de conceitos introdutórios de Programação orientada a objetos, e exemplos de como trabalhar com arquivos, módulos, threads e processos. Isso tudo com exercícios e desafios práticos para que você possa praticar e aplicar em seus projetos.		
+Python é uma das linguagens de programação mais utilizadas do mundo e com isso, oferece diversas oportunidades profissionais. Neste curso, a instrutora e analista de dados, Ana Cecília Vieira te dará as ferramentas neccessárias para iniciar no aprendizado de Python. Comece pela sintaxe básica da linguagem, entendendo como tipos e valores estão relacionados a objetos em Python e como usar as estruturas de controle, condicionais, loops e funções, além de conceitos introdutórios de Programação orientada a objetos, e exemplos de como trabalhar com arquivos, módulos, threads e processos. Isso tudo com exercícios e desafios práticos para que você possa praticar e aplicar em seus projetos.	
 
 ## Instruções 
 
@@ -33,11 +30,11 @@ Todos os exercícios e suas resoluções estão na ramificiação principal do r
 
 **Ana Cecília Vieira Silva**
 
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-cecilia-vieira).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/python-formacao-basica
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGRrYADlh4xWA/learning-public-crop_675_1200/0/1680857390745?e=2147483647&v=beta&t=82QCrJmPSbM2qB_agp3qVBiP9q-QDyits93MX8xwQIo
 
 
 [1]: # (End of BP-Instruction ###############################################################################################)
